@@ -2,8 +2,6 @@ package com.swqsv.main;
 
 
 import java.util.Random;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /**
  * @author Lin_YongLiang
